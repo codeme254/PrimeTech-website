@@ -1,0 +1,1 @@
+make sure you open the index.html file with live-server or else not everything will work as expected
